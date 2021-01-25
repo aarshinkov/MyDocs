@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">MyDocs</string>
+
+    <string name="login_header">Login</string>
+    <string name="login_input_email">Email</string>
+    <string name="login_input_password">Password</string>
+    <string name="login_btn">Login</string>
+    <string name="login_no_account">No account yet? Create one</string>
+
+    <string name="register_header">Register</string>
+    <string name="register_input_email">Email</string>
+    <string name="register_input_password">Password</string>
+    <string name="register_input_password_confirm">Confirm password</string>
+    <string name="register_input_first_name">First name</string>
+    <string name="register_input_last_name">Last name</string>
+    <string name="register_btn">Register</string>
+    <string name="register_have_account">Have an account? Login</string>
 </resources>
